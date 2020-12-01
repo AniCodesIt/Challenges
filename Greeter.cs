@@ -39,15 +39,10 @@ namespace Week_2_Challenges
             {
                 Console.WriteLine("Good night");
             }
-
-
-
-
-
-        }
+            
+       }
     }
     
-
 }
 
 
